@@ -8,6 +8,7 @@
   margin: 0 auto;
   padding: 0 15px;
 }
+<<<<<<< HEAD
 .header-top{
   height:47px ;
   box-sizing: border-box;
@@ -79,4 +80,22 @@ width: 20px;
   gap: 30px;
   margin-left: 470px;
 
+=======
+/* section */
+/* Maftuna */
+.bacraund {
+  width: 1400px;
+  height: 435px;
+  background-image: url("../imeges/Frame\ \(26\).png");
+}
+.button {
+  background-color: #b45f4d;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  line-height: 28.8px;
+  margin:332px 600px 55px 656px; 
+>>>>>>> 5a9a5f73d4a4c096ef7e61345b6deef716abfde5
 }
