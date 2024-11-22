@@ -8,3 +8,11 @@
   margin: 0 auto;
   padding: 0 15px;
 }
+.section2{
+width: 1440px;
+height: 304px;
+background: rgb(169, 174, 141);
+padding-top: 70px;
+padding-left: 69px;
+color: rgb(246, 244, 236);
+}
