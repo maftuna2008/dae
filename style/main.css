@@ -8,3 +8,20 @@
   margin: 0 auto;
   padding: 0 15px;
 }
+/* section */
+/* Maftuna */
+.bacraund {
+  width: 1400px;
+  height: 435px;
+  background-image: url("../imeges/Frame\ \(26\).png");
+}
+.button {
+  background-color: #b45f4d;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  line-height: 28.8px;
+  margin:332px 600px 55px 656px; 
+}
